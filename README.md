@@ -19,5 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyashPG&show_icons=true&locale=en" alt="ShreyashPG" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashPG&" alt="ShreyashPG" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyashPG&" alt="ShreyashPG" /></p> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShreyashPG" alt="GitHub Streak" /></a>
+
 
